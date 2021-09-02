@@ -5,3 +5,5 @@ console.log('ola Brendo');
 console.log('fish');
 console.log('123');
 console.log('1 + 1');
+console.log('2 + "string"');
+console.log('baby + 2');

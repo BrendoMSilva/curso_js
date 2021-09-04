@@ -1,0 +1,10 @@
+console.log('Primeira linha \n segunda linha');
+console.log('o meu nome é "Brendo"');
+console.log("o nome dela é 'jéssica'");
+console.log(`A multiplicação de 5 por 5 é ${5 * 5}`);
+console.log('o' + ' meu' + ' nome' + ' é' + ' Brendo');
+console.log('eu sou o polvo de ferro \n eu sou o polvo aranha');
+console.log('"polvo"');
+console.log("'jéssica'");
+console.log(`valor da soma entre 4 e 5 é: ${4 + 5}`);
+console.log('Eu' + ' sou' + ' o' + ' polvo' + ' de' + ' ferro');

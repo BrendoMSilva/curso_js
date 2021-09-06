@@ -4,7 +4,8 @@ console.log(5 > 3 || 3 == 1);
 console.log(3 == 3 && 'Brendo' == 'Brendo');
 console.log('Silva' == 'Mota' || false);
 
-console.log(!(!(true && true)));
+console.log(!(true && true));
+console.log(!(false && false));
 
 console.log(true && true);
 console.log(false || false);

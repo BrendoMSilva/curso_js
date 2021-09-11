@@ -19,6 +19,10 @@ laranja = 'laranja';
 
 console.log(laranja);
 
+let um = 1, dois = 2, tres = 3; // não aconselho 
+
+console.log(um + dois + tres);
+
 nome = 'euro';
 
 sobrenome = 'truck';

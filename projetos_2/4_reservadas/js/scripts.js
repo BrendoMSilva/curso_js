@@ -10,3 +10,9 @@ let ifTest = 'teste2';
 
 console.log(functionTest);
 console.log(ifTest);
+
+let breakTest = 'teste';
+let elseTest = 'teste2';
+
+console.log(breakTest);
+console.log(elseTest);

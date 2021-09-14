@@ -19,3 +19,14 @@ let passaporte = true;
 if((nome == 'Brendo' && idade > 30) || passaporte == true) {
     console.log('Liberado 2!');
 }
+
+let valorDaJoia = 300; // mudando o valor o cod funciona normal.
+
+if(valorDaJoia == 300) {
+    console.log('O valor da joia esta certo')
+}
+
+if(valorDaJoia != 300) {
+    console.log('Valor da joia esta incorreto');
+}
+

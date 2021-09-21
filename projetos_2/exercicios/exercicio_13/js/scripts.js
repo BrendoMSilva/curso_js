@@ -1,4 +1,4 @@
-for(let num = 101; num > 50; num = num - 1) {
+for(let num = 100; num >= 50; num--) {
 
-    console.log(`numero ${num - 1}`)
+    console.log(num)
 }

@@ -14,9 +14,14 @@ switch(nome) {
         break;
 }
 
-// comparação com o if
-// if(nome == 'Brendo') {
-//      console.log('O nome e Brendo);
-// }else {
-//      console.log('O nome não foi encontrado);
-// }
+/*
+
+comparação com o if
+
+if(nome == 'Brendo') {
+    console.log('O nome e Brendo);
+}else {
+    console.log('O nome não foi encontrado);
+} 
+
+*/

@@ -26,3 +26,17 @@ function imprimirNome() {
 
 imprimirNome();
 
+//Treinando com if
+function imprimirIdade(idade) {
+    if(idade >= 18) {
+        console.log(`Voce tem ${idade} anos!`);
+    }
+}
+
+imprimirIdade(19);
+
+const nome = function(nome) {
+    console.log('foguetão ' + nome)
+}
+
+nome('de navão');

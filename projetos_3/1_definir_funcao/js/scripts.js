@@ -20,3 +20,9 @@ const numeroAleatorio = function() {
 numeroAleatorio();
 numeroAleatorio();
 
+function imprimirNome() {
+    console.log('Megatron');
+}
+
+imprimirNome();
+

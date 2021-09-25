@@ -30,8 +30,8 @@ meuContador();
 meuContador();
 
 let meuContador2 = contador(1);
-meuContador();
-meuContador();
-meuContador();
-meuContador();
-meuContador();
+meuContador2();
+meuContador2();
+meuContador2();
+meuContador2();
+meuContador2();

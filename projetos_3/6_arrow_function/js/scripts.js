@@ -9,3 +9,4 @@ let soma = (a, b) => {
 }
 
 console.log(soma(10, 40));
+

@@ -1,7 +1,7 @@
-let idade = 20;
-
-function imprimirIdade() {
-    console.log(`Você tem ${idade} anos.`);    
+function mostrarIdade(idade) {
+    console.log(`Você tem ${idade} anos.`);
 }
 
-imprimirIdade();
+mostrarIdade(21);
+mostrarIdade(11);
+mostrarIdade(31);

@@ -5,6 +5,8 @@ function limiteDeCaracteres(texto) {
     } else {
         console.log('Texto dentro do limite!');
     }
+
+    console.log(texto.length);
 }
 
 limiteDeCaracteres('Teste');

@@ -1,7 +1,8 @@
-function baspot(base, pot) {
+function potencia(base, pot) {
+    // return Math.pow(base,pot);
     return base ** pot;
 }
 
-console.log(baspot(3, 2));
-console.log(baspot(5, 5));
-console.log(baspot(8, 4));
+console.log(potencia(3, 2));
+console.log(potencia(5, 5));
+console.log(potencia(8, 4));

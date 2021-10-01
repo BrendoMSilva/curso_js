@@ -47,6 +47,16 @@ console.log(concorenciaTres.marca);
 console.log(concorenciaTres.modelo);
 console.log(concorenciaTres.ano);
 
+let concorenciaQuatro = {
+    roda: 4,
+    marca: 'nissan',
+    modelo: 'versa',
+    ano: 2020
+}
+
+console.log(concorenciaQuatro.marca);
+console.log(concorenciaQuatro.modelo);
+console.log(concorenciaQuatro.ano);
 
 // [] = array
 // {} = objeto

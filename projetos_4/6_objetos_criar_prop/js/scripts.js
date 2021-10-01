@@ -35,3 +35,5 @@ console.log(carro);
 
 delete carro.roda;
 console.log(carro.roda);
+
+// deletando e adicionando objetos.

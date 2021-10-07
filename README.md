@@ -1,2 +1,2 @@
 # curso_js
- Estudando Javascript.
+ estudando Javascript.

@@ -1,4 +1,11 @@
+let pessoa = {
+    "nome": "Brendo",
+    "idade": 20
+}
 
-// rigoroso na estrutura, ou seja, voce deve seguir o padrao imposto por este formato;
-// apenas aspas duplas;
-// nao aceita comentarios;
+console.log(pessoa.nome);
+console.log(pessoa.idade);
+
+// JSON = JavaScript Object Notation;
+// ultilizado para comunicação entre serviços, ex: back-end <-> front-end
+// basicamente um tipo de dado padronizado, que lembra muito os objetos do javascropt;

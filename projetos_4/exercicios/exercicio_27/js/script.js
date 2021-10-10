@@ -1,5 +1,6 @@
-let arr = [1, 34, 40, 50, 60];
+let num = ['Brendo', 'Neymar'];
 
-console.log(arr[1]);
-console.log(arr[2]);
-console.log(arr[4]);
+let num2 = [true, false, true, true];
+
+console.log(num.length);
+console.log(num2.length);

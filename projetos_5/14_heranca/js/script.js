@@ -26,6 +26,28 @@ united.hino();
 
 // ===========================
 
+class Carro {
+
+    constructor(marca, modelo) {
+        this.marca = marca;
+        this.modelo = modelo;
+    }
+}
+
+class Moto extends Carro {
+
+    constructor(marca, modelo, cor) {
+        super(marca, marca, cor, cor);
+        this.marca = marca;
+        this.modelo = modelo;
+        this.cor = cor
+    }
+}
+
+let bmw = new Moto('BMW', 'I900', 'Black piano');
+
+console.log(bmw);
+
 
 
 // uma classe pode herdar propriedades de outra classe por herança;

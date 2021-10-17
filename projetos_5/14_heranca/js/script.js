@@ -72,6 +72,31 @@ let dell = new Pc2('DELL', 2020, 'I9 9900');
 console.log(dell);
 
 
+//====================================
+
+class Chuteira {
+
+    constructor(marca, tamanho) {
+        this.marca = marca;
+        this.tamanho = tamanho;
+    }
+}
+
+class Tenis extends Chuteira {
+
+    constructor(marca, tamanho, cor) {
+        super(marca, marca, tamanho, tamanho);
+        this.marca = marca;
+        this.tamanho = tamanho;
+        this.cor = cor;
+    }
+}
+
+let nike = new Tenis('Nike', 40, 'White');
+
+console.log(nike);
+
+
 
 // uma classe pode herdar propriedades de outra classe por herança;
 // para isso ultilizamos extends;

@@ -48,6 +48,29 @@ let bmw = new Moto('BMW', 'I900', 'Black piano');
 
 console.log(bmw);
 
+// ===========================
+
+class Pc {
+
+    constructor(marca) {
+        this.marca = marca;
+    }
+}
+
+class Pc2 extends Pc{
+
+    constructor(marca, ano, processador) {
+        super(marca, marca);
+        this.marca = marca;
+        this.ano = ano;
+        this.processador = processador;
+    }
+}
+
+let dell = new Pc2('DELL', 2020, 'I9 9900');
+
+console.log(dell);
+
 
 
 // uma classe pode herdar propriedades de outra classe por herança;

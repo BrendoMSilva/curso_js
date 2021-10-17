@@ -9,7 +9,6 @@ class SegundoTime extends Time {
 
     constructor(nome, corUniforme, patrocinador) {
         super(nome, nome);
-        this.nome = nome;
         this.patrocinador = patrocinador;
         this.corUniforme = corUniforme;
     }
@@ -38,7 +37,6 @@ class Moto extends Carro {
 
     constructor(marca, modelo, cor) {
         super(marca, marca, cor, cor);
-        this.marca = marca;
         this.modelo = modelo;
         this.cor = cor
     }
@@ -61,7 +59,6 @@ class Pc2 extends Pc{
 
     constructor(marca, ano, processador) {
         super(marca, marca);
-        this.marca = marca;
         this.ano = ano;
         this.processador = processador;
     }
@@ -86,7 +83,6 @@ class Tenis extends Chuteira {
 
     constructor(marca, tamanho, cor) {
         super(marca, marca, tamanho, tamanho);
-        this.marca = marca;
         this.tamanho = tamanho;
         this.cor = cor;
     }

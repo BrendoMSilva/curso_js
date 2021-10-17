@@ -90,11 +90,15 @@ class Tenis extends Chuteira {
         this.tamanho = tamanho;
         this.cor = cor;
     }
+    frase() {
+        console.log('Just do it')
+    }
 }
 
 let nike = new Tenis('Nike', 40, 'White');
 
 console.log(nike);
+nike.frase();
 
 
 

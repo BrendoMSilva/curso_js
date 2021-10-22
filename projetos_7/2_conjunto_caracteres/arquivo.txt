@@ -1,0 +1,12 @@
+======================== Conjunto de caracteres ========================
+
+Podemos definir um conunto de caracteres para encontrar por meio de regex;
+
+Basta por entre [];
+
+Com um traço podemos definir um intervalo também;
+
+ex: 
+
+    console.log(/[123]/.test('existe 123 aqui?'));  true
+    console.log(/[0-9]/.test('O número 8 está presente aqui?'));  true

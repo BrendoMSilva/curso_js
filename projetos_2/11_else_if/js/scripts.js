@@ -1,4 +1,4 @@
-let nome = 'Brendo';
+let nome = 'Breno';
 let idade = 28;
 
 if(nome != undefined && nome == 'Joaquim') {

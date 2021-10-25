@@ -24,4 +24,8 @@ if(nome == 'Brendo') {
     console.log('O nome não foi encontrado);
 } 
 
+avalia uma expressão, combinando o valor da expressão para um cláusula case,
+e executa as instruções associadas ao case
+
+
 */

@@ -16,3 +16,10 @@ for(let par = 14; par > 0; par = par -2) {
 
     console.log(par);
 }
+
+/**
+ 
+continue: termina a atual iteração do laço em que ele se encontra 
+ou de um laço rotulado, e continua a execução deste laço com a proxima iteração
+
+ */

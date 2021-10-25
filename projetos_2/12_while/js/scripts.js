@@ -12,3 +12,5 @@ while(y <= 10) {
     y = y + 1;
 }
 
+// While: cria um laço que executa uma rotina especifica enquanto a condição de teste for avaliada como verdadeira
+// a condição é avaliada antes da execução

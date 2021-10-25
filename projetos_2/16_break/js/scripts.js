@@ -14,3 +14,11 @@ for(let i = 0; i < 10; i = i + 1) {
 
     console.log(i);
 } 
+
+
+/*
+
+break: encerra o loop atual, ou o loop que foi informado no label e transfere o controle da 
+execução do programa para o comando seguinte
+
+*/

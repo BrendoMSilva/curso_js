@@ -1,0 +1,9 @@
+======================== Caracteres especiais ========================
+
+\d - qualquer digito de Caractere
+\w - um Caractere alfanumérico("teste")
+\s - qualquer Caractere de espaço em branco 
+\D - Caractere que não são  digitos
+\W - Caractere não-alfanumérico
+\S - Caractere que não seja espaço em branco
+. - qualquer Caractere, menos nova linha

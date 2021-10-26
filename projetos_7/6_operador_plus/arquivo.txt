@@ -1,0 +1,5 @@
+======================== Operador plus ========================
+
+Quando um + esta após alguma expressão, este elemento pode se repetir mais de uma vez;
+
+

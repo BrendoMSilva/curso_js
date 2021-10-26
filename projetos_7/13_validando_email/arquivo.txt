@@ -1,0 +1,4 @@
+======================== Regex na pratica: validando um email ========================
+
+Da seguinte forma, podemos validar um email;
+

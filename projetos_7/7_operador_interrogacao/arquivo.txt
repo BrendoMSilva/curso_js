@@ -1,0 +1,7 @@
+======================== Operador ?========================
+
+faz com que o digito anterior seja opcional;
+
+Operador question || interrogação
+
+

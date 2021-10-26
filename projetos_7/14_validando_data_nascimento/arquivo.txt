@@ -1,0 +1,4 @@
+======================== Regex na pratica: validando data de nascimento ========================
+
+Da seguinte forma, podemos validar uma data de nascimento;
+

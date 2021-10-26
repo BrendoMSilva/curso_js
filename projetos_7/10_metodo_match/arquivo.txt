@@ -1,0 +1,5 @@
+======================== Método match ========================
+
+O método match funciona de forma similar ao exec;
+
+Ele não é muito usado

@@ -1,0 +1,4 @@
+======================== Regex na pratica: validando um dominio ========================
+
+Da seguinte forma, podemos validar um domínio;
+

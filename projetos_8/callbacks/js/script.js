@@ -5,7 +5,3 @@ setTimeout(function() {
 }, 2000);
 
 console.log('Ainda não chamou o callback');
-
-
-
-

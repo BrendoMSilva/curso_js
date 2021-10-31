@@ -1,0 +1,5 @@
+================== Promises all ======================
+
+Com o método all, podemos resolver várias promessas de uma vez só;
+
+Ou seja, passamos ela por uma array e quando a últim for resolvida, receberemos a resposta;

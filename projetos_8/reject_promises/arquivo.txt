@@ -1,0 +1,7 @@
+================== Reijeitando Promises ======================
+
+Além do resolve, há o metodo reject;
+
+Que é quando determinada lógica não satisfaz nosso programa, então podemos ir para outra com o reject, em vez do resolve;
+
+resolve e reject terminam a Promise, ou seja, não podemos chamar mais o then;

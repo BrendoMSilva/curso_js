@@ -1,0 +1,5 @@
+============== Encontrando elementos: por tag ===============
+
+Ultilizamos o seguinte método para encontrar elementos pela tag
+
+document.getElementByTagName("h1");

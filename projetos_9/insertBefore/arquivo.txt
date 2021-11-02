@@ -1,0 +1,7 @@
+============== alterando DOM com insertBefore ===============
+
+insere um nó antes do nó de referência do método;
+
+Precisamos de um elemento para ser adicionado;
+
+E o elemento pai destes dois;

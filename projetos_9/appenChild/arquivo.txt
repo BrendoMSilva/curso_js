@@ -1,0 +1,3 @@
+============== alterando DOM com appenChild ===============
+
+Adiciona um nó após todos os elemntos do pai especificado

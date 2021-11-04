@@ -18,3 +18,15 @@ var parentDiv = sp2.parentNode;
 
 // Substituí o elemento que já existe (sp2) por o novo elemento (sp1)
 parentDiv.replaceChild(sp1, sp2);
+
+//===========================================
+
+let novoElemento = document.createElement('p');
+let texto = document.createTextNode('opa amigos da TNT');
+
+novoElemento.appendChild(texto);
+
+let heading = document.querySelector('#titulo-principal');
+let paiHeading = heading.parentNode;
+
+paiHeading.replaceChild(novoElemento, heading);

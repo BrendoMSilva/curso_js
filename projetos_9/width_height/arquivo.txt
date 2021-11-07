@@ -1,0 +1,3 @@
+============== Verificando altura e largura do elemento ===========
+
+Com JS também é possivel verificar propriedades do elemento como altura e largura 

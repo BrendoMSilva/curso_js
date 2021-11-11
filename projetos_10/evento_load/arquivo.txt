@@ -1,0 +1,6 @@
+========= Eventos load ===========
+
+Podemos atrelar um evento quando uma página carrega, pelo evento load;
+
+e antes do usuário fechar a página pelo evento beforeunload;
+

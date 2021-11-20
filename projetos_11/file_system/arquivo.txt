@@ -1,0 +1,8 @@
+ 
+============ File system ===========
+
+ Um dos módulos mais utilizados;
+
+ Serve para trabalhar com arquivos e diretórios;
+
+ É incluso no node, ou seja, não precisa instalar

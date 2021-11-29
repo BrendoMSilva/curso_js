@@ -1,4 +1,4 @@
-========== Mao =============
+========== Map =============
 
 O map é um método de array tambem, que percorre todos os elementos;
 

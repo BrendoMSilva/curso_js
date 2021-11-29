@@ -1,0 +1,7 @@
+========== Classes ES6 =============
+
+As classes são recursos fundamentais para programar com orientação a objetos;
+
+Agora com o js tem este recursos implementado, onde temos acessos a: constructor, propriedades, métodos e mais;
+
+Antes as classes eram baseadas em funções(contructor functions);

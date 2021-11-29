@@ -1,41 +1,44 @@
-// o var ira fazer a variavel que esta fora do if ser 5 e a de dentro do if tambem ser 5
-var x = 10;
-var y = 15;
-
-if(y > 10) {
-    var x = 5
-    console.log(x)
+// arrow function
+const sum = function sum(a, b) {
+    return a + b
 }
 
-console.log(x);
+const arrowSum = (a, b) => a + b
 
-// com o let e const podemos mudar isso com ES6
+console.log(sum(5, 5))
+console.log(arrowSum(5, 5))
 
-let a = 10;
-let b = 15;
-
-if(b > 10) {
-    let a = 4
-    console.log(a)
+const greeting = (name) => {
+    if(name) {
+        return 'Olá ' + name + '!' 
+    } else {
+        return 'Olá!'
+    }
 }
 
-console.log(a);
+console.log(greeting('Doritos'));
+console.log(greeting());
 
-let i = 100;
+const testeArrow = () => console.log('Testou')
 
-for(let i = 0; i < 5; i++) {
-    console.log(i)
+testeArrow()
+
+const user = {
+    name: 'Dori',
+    sayUseName() {
+        var self = this
+        setTimeout(function () {
+            console.log(self)
+            console.log('Username: ' + self.name)
+        }, 500)
+    },
+    sayUseNameArrow() {
+        setTimeout(() => {
+            console.log(this)
+            console.log('Username: ' + this.name)
+        }, 700)
+    },
 }
 
-console.log(i);
-
-function logName() {
-    const name = 'Doritos'
-    console.log(name)
-}
-
-const name = 'Salgadinho';
-
-logName();
-
-console.log(name);
+user.sayUseName()
+user.sayUseNameArrow()

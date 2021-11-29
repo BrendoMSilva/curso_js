@@ -1,0 +1,7 @@
+========== Spread operator ES6 =============
+
+O spread pode ser utilizado também em arrays e objetos;
+
+Utilizamos para contruir novos valores destes dados em outros arrays e objetos;
+
+Ou seja, podemos unir vários arrays de maneira simples ou adicionar valores de um objeto a outro.
